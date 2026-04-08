@@ -41,13 +41,13 @@ I'm Ayobami — a software engineer based in Lagos, Nigeria. I enjoy building cl
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ayobami11&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=default&hide_border=true&title_color=111827&icon_color=111827&text_color=374151"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayobami11&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=default&hide_border=true&title_color=111827&icon_color=111827&text_color=374151"
     height="160"
     alt="GitHub Stats"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayobami11&layout=compact&hide_border=true&theme=default&title_color=111827&text_color=374151&langs_count=6"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayobami11&layout=compact&hide_border=true&theme=default&title_color=111827&text_color=374151&langs_count=6"
     height="160"
     alt="Top Languages"
   />
