@@ -1,54 +1,68 @@
-<!--
-**ayobami11/ayobami11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ayobami Tunwase
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📫 How to reach me: ...
--->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+**Software Engineer** · Building scalable web applications with TypeScript, React, and Node.js.
 
 ---
 
-### :man_technologist: About Me :
+## About Me
 
-I'm Ayobami, a front-end web developer based in Lagos, Nigeria :nigeria:
+I'm Ayobami — a software engineer based in Lagos, Nigeria. I enjoy building clean, performant web experiences and writing code. Outside programming, I like to read tech articles and solve DSA problems.
 
--   💬 I’m working as a front-end developer and contributing to frontend web applications.
+**Check out my [website](https://ayobami-tunwase.vercel.app)!**
 
--   🌱 I’m currently learning data structures and algorithms :man_technologist:
+---
 
--   👯 I’m looking to collaborate on front-end web applications and websites.
+## Tech Stack
 
--   ⚡ During my spare time, I read tech-related articles and watch movies.
+**Languages**
 
--   :mailbox: How to reach me: <a href="mailto:tunwaseayobami98@gmail.com">tunwaseayobami98@gmail.com</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### :hammer_and_wrench: Languages and Tools :
+**Frameworks & Libraries**
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### :fire: My Stats :
+**Tools & Platforms**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayobami11)](https://github.com/anuraghazra/github-readme-stats)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayobami11&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&theme=default&hide_border=true&title_color=111827&icon_color=111827&text_color=374151"
+    height="160"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayobami11&layout=compact&hide_border=true&theme=default&title_color=111827&text_color=374151&langs_count=6"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## Featured Project
+
+**[Gospel Companion](https://gospelcompanion.vercel.app/)** — A faith-based web application built with Next.js and TypeScript, designed to provide an intuitive and accessible digital Bible experience.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayobami-tunwase)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TunwaseAyobami)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayobami.tunwase@gmail.com)
